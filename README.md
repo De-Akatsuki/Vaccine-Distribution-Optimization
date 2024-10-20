@@ -13,3 +13,11 @@ manageable subproblems.
 multiple regions with different population sizes, risk levels, and healthcare needs.
 - Instructions: Consider constraints such as vaccine availability, transportation 
 limitations, and regional healthcare infrastructure
+- Steps: 
+ 1. Define the regions and their respective healthcare needs.
+ 2. Develop a dynamic programming approach to optimize vaccine distribution.
+ 3. Evaluate the efficiency of your solution based on coverage and distribution cost.
+
+#### Expected Outcome: A dynamic programming model that maximizes vaccine 
+distribution efficiency while minimizing costs and delays.
+
