@@ -18,6 +18,5 @@ limitations, and regional healthcare infrastructure
  2. Develop a dynamic programming approach to optimize vaccine distribution.
  3. Evaluate the efficiency of your solution based on coverage and distribution cost.
 
-#### Expected Outcome: A dynamic programming model that maximizes vaccine 
-distribution efficiency while minimizing costs and delays.
+#### Expected Outcome: A dynamic programming model that maximizes vaccine distribution efficiency while minimizing costs and delays.
 
